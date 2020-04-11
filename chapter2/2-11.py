@@ -7,5 +7,6 @@ while True:
         print(sum([1,2,3,4,5]))
     elif put == '2':
         print("you will avg")
+
     elif put == 'x':
         break
